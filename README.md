@@ -6,7 +6,7 @@ Interpolates theme color tokens into a linear scale and samples namespace refere
 
 ## API
 
-`import colorDemux from 'colorDemux.js';`
+`import colorDemux from 'https://eiiisd.github.io/color-demux/dist/colorDemux.js';`
 
 
 - `colorDemux.get(n: float)`
