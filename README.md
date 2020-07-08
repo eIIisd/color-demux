@@ -18,12 +18,12 @@ const based = new colorDemux('#001A4D #003366 #335C85 #6685A3 #99ADC2 #CCD6E0')
 ```
 /* style.css */
 
-.lel {
+.component {
   color: var(--rah-10);
   background: var(--rah-90);
 }
 
-.swag {
+.button {
   --local-color: var(--rah-33);
   color: var(--local-color);
 }
